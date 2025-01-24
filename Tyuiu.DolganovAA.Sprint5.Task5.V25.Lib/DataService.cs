@@ -17,4 +17,4 @@ namespace Tyuiu.DolganovAA.Sprint5.Task5.V25.Lib
             return res;
         }
     }
-}
+} 
